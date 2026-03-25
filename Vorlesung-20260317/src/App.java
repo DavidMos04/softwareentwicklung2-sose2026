@@ -25,5 +25,5 @@ public class App {
         auto2.inhaltAusgeben();
 
         auto2.fahren(10);
-    }
+    } //test
 }
