@@ -1,0 +1,3 @@
+Hello, World! 
+Was für ein schöner Tag!
+The value of pi is approximately 3,14
